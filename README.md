@@ -1,4 +1,4 @@
-# Junior Data Scientist
+# Senior SEO Analyst | Data Scientist 
 
 ## Certificates	
 Algebra and Differential Calculus for Data Science
